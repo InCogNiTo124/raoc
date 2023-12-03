@@ -6,6 +6,7 @@ authors = ["InCogNiTo124 <msmetko@msmetko.xyz>"]
 
 [dependencies]
 scanf = "1.2.1"
+regex = "1.10.2"
 
 [[bin]]
 name = "2015-01-1"
